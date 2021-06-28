@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Package Lock
+package-lock.json
+
+# IntelliJ
+.idea
+requests.http
+
+# Build Folder
+/build
